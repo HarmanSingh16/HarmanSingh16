@@ -1,5 +1,5 @@
 # 💫 About Me:
-1. Deep diving into DevOps<br>2. Ready to help with API integrations/optimizations <br>3. Fun Fact: I have my own home server, that runs an image storage system, all the pipeline work and scripts handcoded by me
+<br>1. Deep diving into DevOps<br>2. Ready to help with API integrations/optimizations <br>3. Fun Fact: I have my own home server, that runs an image storage system, all the pipeline work and scripts handcoded by me
 
 
 ## 🌐 Socials:
